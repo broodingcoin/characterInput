@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6114CC36
+eax=0000002F ebx=85B12080 ecx=00000000 edx=2004841F esi=611C0CD0 edi=0000000A
+ebp=85B12002 esp=0061CA30 program=C:\users\tarek\documents\proj\mc1.exe, pid 12720, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace
